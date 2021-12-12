@@ -1,0 +1,1 @@
+AirWhoosh,a simple airline reservation system, allows the user to search for flights that are available between the two travel cities, namely the "Departure city" and "Arrival city" for a particular departure and arrival dates. It takes user’s details and stores all records in the database which is also visible to the user. It offers other features also.
